@@ -13,7 +13,7 @@ https://www.dropbox.com/s/n6asan3fu5tl9zx/tic_tac_toe_q_learning_evaluation.exe?
 
 The demo uses precompiled .npy files included in this repository containing training data for 10 million games of tic-tac-toe.
 
-The trainer allows you to select the number of games to train your own AI agent for. You can experiment with the amount of games and see how that impacts the AI's performance.
+The trainer allows you to select the board size and number of games to train your own AI agent for. You can experiment with the dimension of the board and amount of games to see how that impacts the AI's performance.
 
 The evaluation demonstrates the convergence of the training graph for the cases when the AI agent has the first move or the second move.
 
