@@ -5,7 +5,9 @@ Designed an AI agent that learns to play optimal tic-tac-toe through probabilist
 Three precompiled exe files may be downloaded for your usage:
 
 https://www.dropbox.com/s/a7gggipm4el5zjh/tic_tac_toe_q_learning_demo.exe?dl=0
+
 https://www.dropbox.com/s/ttfd0al584ldobx/tic_tac_toe_q_learning_trainer.exe?dl=0
+
 https://www.dropbox.com/s/n6asan3fu5tl9zx/tic_tac_toe_q_learning_evaluation.exe?dl=0
 
 
